@@ -1,0 +1,17 @@
+[
+    { 
+      "name": "Alex", 
+      "email": "alex@microsoft.com",
+      "country": "UK"
+    },
+    {
+       "name": "Smith",
+       "email": "smith@google.com",
+       "country": "US"
+    },
+    {
+        "name": "Krishna",
+        "email": "krishna@gmail.com",
+        "country": "INDIA"
+     }
+  ]
